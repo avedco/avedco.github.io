@@ -1,0 +1,277 @@
+/* General Styles */
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal-content {
+    background-color: #444;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    color: white;
+    border-radius: 10px;
+}
+
+.modal-content ul {
+    list-style-type: none; /* Removes the bullet points */
+    padding: 0; /* Removes the padding */
+}
+
+
+.close-button {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close-button:hover {
+    color: red;
+}
+
+.start-screen button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #444;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.start-screen button:hover {
+    background-color: #666;
+}
+
+
+
+button {
+    background-color: #1f1f1f;
+    color: white;
+    border: 1px solid #333;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+/* Easy Mode button hover effect */
+.start-screen button.easy-mode {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #36af47; /* Green */
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.start-screen button.easy-mode:hover {
+    background-color: #278634; /* Slightly darker green */
+}
+
+/* Hard Mode button hover effect */
+.start-screen button.hard-mode {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #cd3c3c; /* Red */
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.start-screen button.hard-mode:hover {
+    background-color: #ad3d3d; /* Slightly darker red */
+}
+
+button.disabled {
+    background-color: #555;
+    color: #aaa;
+    cursor: not-allowed;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #1f1f1f;
+    color: white;
+    margin-top: 20px;
+}
+
+/* Game Screens */
+.start-screen,
+.game-container,
+.game-over-screen,
+.leaderboard-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* Hangman Structure */
+.hangman {
+    position: relative;
+    width: 200px;
+    height: 300px;
+    margin: 20px auto;
+}
+
+.gallow {
+    position: relative;
+    width: 200px;
+    height: 300px;
+}
+
+.gallow .base {
+    position: absolute;
+    bottom: 0;
+    width: 200px;
+    height: 10px;
+    background-color: white;
+}
+
+.gallow .vertical {
+    position: absolute;
+    bottom: 10px;
+    left: 90px;
+    width: 10px;
+    height: 250px;
+    background-color: white;
+}
+
+.gallow .crossbar {
+    position: absolute;
+    top: 30px;
+    left: 90px;
+    width: 120px;
+    height: 10px;
+    background-color: white;
+}
+
+
+/* Hangman Parts */
+.head {
+    position: absolute;
+    top: 40px;
+    left: 145px;
+    width: 30px;
+    height: 30px;
+    border: 10px solid white;
+    border-radius: 50%;
+    display: none;
+}
+
+.body {
+    position: absolute;
+    top: 84px;
+    left: 165px;
+    width: 10px;
+    height: 70px;
+    background-color: white;
+    display: none;
+}
+
+.left-arm {
+    position: absolute;
+    top: 100px;
+    left: 135px;
+    width: 35px;
+    height: 10px;
+    background-color: white;
+    transform: rotate(-45deg);
+    transform-origin: right;
+    display: none;
+}
+
+.right-arm {
+    position: absolute;
+    top: 100px;
+    left: 170px;
+    width: 35px;
+    height: 10px;
+    background-color: white;
+    transform: rotate(45deg);
+    transform-origin: left;
+    display: none;
+}
+
+.left-leg {
+    position: absolute;
+    top: 145px;
+    left: 130px;
+    width: 40px;
+    height: 10px;
+    background-color: white;
+    transform: rotate(-45deg);
+    transform-origin: right;
+    display: none;
+}
+
+.right-leg {
+    position: absolute;
+    top: 145px;
+    left: 170px;
+    width: 40px;
+    height: 10px;
+    background-color: white;
+    transform: rotate(45deg);
+    transform-origin: left;
+    display: none;
+}
+
+/* Leaderboard Styles */
+.leaderboard-screen {
+    text-align: center;
+}
+
+.leaderboard-screen ul {
+    list-style: none;
+    padding: 0;
+}
+
+.leaderboard-screen li {
+    margin: 5px 0;
+    background-color: #1f1f1f;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#leaderboard-screen ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0; /* Removes extra padding */
+}
+
+

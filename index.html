@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangman Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-mode">
+<!-- Start Screen -->
+<div class="start-screen" id="start-screen">
+    <h1>Hangman Game</h1>
+    <!-- Easy and Hard Mode Buttons -->
+    <button class="easy-mode" onclick="startGame('easy')">Easy Mode</button>
+    <p>Easy Mode: Lives reset after each correctly guessed word.</p>
+
+    <button class="hard-mode" onclick="startGame('hard')">Hard Mode</button>
+    <p>Hard Mode: Lives do not reset. You have 6 lives for the entire game.</p>
+
+    <button onclick="viewLeaderboard()">View Leaderboard</button>
+    <button id="how-to-play-button" onclick="showHowToPlay()">How to Play</button>
+
+</div>
+
+<!-- How to Play Popup -->
+<div id="how-to-play-popup" class="modal">
+    <div class="modal-content">
+        <span class="close-button" onclick="closeHowToPlay()">&times;</span>
+        <h2>How to Play</h2>
+        <p>Welcome to Hangman! Here's how to play:</p>
+        <ul>
+            <li>Guess the word by selecting letters.</li>
+            <li>You have 6 lives. For each incorrect guess, a part of the hangman is drawn.</li>
+            <li>Guess all the letters before the hangman is fully drawn to win.</li>
+            <li>Use hints if you need some help</li>
+            <li>Have fun!</li>
+        </ul>
+    </div>
+</div>
+
+<!-- Game Screen -->
+<div class="game-container" id="game-container" style="display:none;">
+    <h2>Hangman</h2>
+    <p id="hint"></p>
+    <div class="word" id="word"></div>
+
+    <!-- Letter Buttons -->
+    <div class="letters-container" id="letters">
+        <!-- JavaScript dynamically generates the letter buttons here -->
+    </div>
+
+    <button id="return-to-start" onclick="returnToStart()">Return to Start Page</button>
+    <button id="hint-button" onclick="showHint()">Show Hint</button>
+
+
+    <!-- Hangman Drawing -->
+    <div class="hangman" id="hangman">
+        <div class="gallow">
+            <div class="base"></div>
+            <div class="vertical"></div>
+            <div class="crossbar"></div>
+        </div>
+        <div class="head" id="head"></div>
+        <div class="body" id="body"></div>
+        <div class="left-arm" id="left-arm"></div>
+        <div class="right-arm" id="right-arm"></div>
+        <div class="left-leg" id="left-leg"></div>
+        <div class="right-leg" id="right-leg"></div>
+    </div>
+</div>
+
+
+
+<!-- Game Over Screen -->
+<div id="game-over-screen" style="display:none;">
+    <h2>Game Over!</h2>
+    <p id="wrong-word"></p>
+    <label for="player-name">Enter your name:</label>
+    <input type="text" id="player-name" placeholder="Your name">
+    <button onclick="submitPlayer()">Submit</button>
+</div>
+
+<!-- Leaderboard Screen -->
+<div id="leaderboard-screen" style="display:none;">
+    <h2>Leaderboards</h2>
+    <h3>Easy Mode</h3>
+    <ul id="easy-leaderboard"></ul>
+    <h3>Hard Mode</h3>
+    <ul id="hard-leaderboard"></ul>
+    <button onclick="location.reload()">Return to Start Page</button>
+    <button onclick="clearLeaderboard()">Clear Leaderboard</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

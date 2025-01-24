@@ -1,0 +1,250 @@
+naughty, mischievous or behaving in a way that is not allowed, 4
+holiday, a special day of celebration or rest, 2
+friction, resistance that slows down movement, 3
+swim, move through water using arms and legs, 1
+grass, green plant that covers the ground, 1
+interfere, get involved in a situation where you are not wanted, 5
+abiding, lasting or enduring, 3
+punishment, a penalty for a wrongdoing, 3
+complete, having all necessary parts or elements, 2
+half, one of two equal parts, 1
+offend, make someone feel hurt or insulted, 2
+paddle, a short and flat tool used for rowing, 2
+telling, revealing or showing something, 3
+island, a piece of land surrounded by water, 2
+tired, needing rest or sleep, 1
+tricky, difficult or requiring skill, 3
+sea, large body of saltwater, 2
+country, a nation or region with its own government, 2
+changeable, able to change or vary, 4
+value, the worth or importance of something, 2
+smelly, having a strong unpleasant odor, 2
+hat, a covering for the head, 1
+approval, positive recognition or acceptance, 3
+tiresome, causing fatigue or boredom, 3
+petite, small and delicate in size, 3
+haunt, to appear frequently in a place, 4
+pig, a domesticated farm animal, 1
+persistent, lasting for an extended period, 3
+part, a portion or section of a whole, 1
+admit, to confess or allow entry, 2
+likeable, easy to be liked or friendly, 3
+painstaking, requiring great care and effort, 5
+dinner, the main meal of the day, 1
+big, large in size or extent, 1
+paper, material used for writing or wrapping, 1
+zealous, showing great enthusiasm or passion, 4
+lunchroom, a room where people eat lunch, 2
+wren, a small songbird, 3
+smiling, showing happiness or friendliness with a facial expression, 1
+loss, the state of having lost something, 2
+peel, to remove the outer skin of something, 2
+arrogant, overly confident in one's own abilities, 3
+blushing, reddening of the face from embarrassment or shyness, 3
+verse, a group of lines in a poem or song, 2
+thankful, feeling gratitude, 2
+bedroom, a room used for sleeping, 1
+boot, a type of footwear, 1
+exciting, causing great enthusiasm or joy, 2
+synonymous, having the same meaning, 5
+neighbourly, friendly or helpful towards neighbours, 3
+roof, the top covering of a building, 1
+pointless, without purpose or reason, 3
+file, a tool used to smooth or shape material, 2
+attempt, an effort to accomplish something, 2
+venomous, capable of injecting poison, 5
+ice, frozen water, 1
+knock, a sound made by hitting a surface, 1
+ring, a circular band worn on the finger, 1
+caring, showing concern for others, 2
+equal, having the same value or status, 2
+closed, shut or blocked, 1
+useless, not serving any useful purpose, 3
+frightening, causing fear or alarm, 3
+excite, to make someone feel eager or thrilled, 2
+supreme, highest in rank or authority, 3
+spotted, marked with small dots, 2
+example, a representative instance or model, 2
+clam, a type of shellfish, 3
+cold, having a low temperature, 1
+purpose, the reason for which something is done, 2
+grade, a level or rank of achievement, 2
+apparel, clothing or attire, 3
+bent, curved or twisted, 2
+bit, a small piece or portion of something, 1
+check, to verify or inspect something, 1
+super, excellent or outstanding, 2
+marry, to legally unite in a marriage, 2
+parallel, lines that never meet and are at the same distance apart, 5
+coil, a spiral or circular shape, 2
+payment, the act of giving money for something, 2
+long, extending for a great distance, 1
+quiet, making little to no sound, 1
+cast, to throw or form something in a mold, 2
+rot, to decay or decompose, 2
+fasten, to attach or secure something, 2
+quartz, a common mineral found in the earth, 4
+fail, to not succeed in achieving a goal, 1
+calendar, a system for organising days months and years, 3
+glow, to emit light or shine softly, 2
+surprise, an unexpected event or outcome, 2
+trot, a slow, steady pace of walking or running, 2
+decisive, showing the ability to make quick firm decisions, 3
+spoil, to ruin or decay or to indulge excessively, 2
+beautiful, attractive in appearance, 2
+understood, fully comprehended or grasped, 2
+watery, resembling or full of water, 2
+dam, a structure built to block or control the flow of water, 3
+tub, a large container used for bathing, 1
+unkempt, messy or untidy, 3
+sigh, a long deep breath expressing emotion, 2
+strip, to remove the covering of something, 2
+teenytiny, very small, 3
+known, recognised or familiar, 1
+club, a group of people with a common interest, 1
+fabulous, wonderful or extraordinary, 2
+elated, feeling great happiness or joy, 3
+exuberant, full of energy and excitement, 5
+gaze, a steady or fixed look, 2
+knife, a sharp-edged tool used for cutting, 1
+tenuous, weak or slight, 4
+venerate, showing respect or reverence, 4
+trap, a device used to catch animals or people, 2
+science, the study of the natural world based on facts, 3
+bikes, two-wheeled vehicles powered by pedaling, 1
+annoyed, feeling irritated or bothered, 2
+guitar, a musical instrument with strings, 2
+twist, to turn or rotate something, 2
+steam, the vapor produced by boiling water, 1
+sparkling, shining or glittering with light, 2
+liquid, a substance that flows and has no fixed shape, 1
+excited, feeling enthusiastic or eager, 1
+rub, to move something back and forth against a surface, 2
+eager, showing a strong desire or willingness, 2
+opposite, being completely different or contrary, 2
+flame, the visible part of a fire, 1
+motion, movement or change in position, 2
+base, the bottom or foundation of something, 1
+amusing, entertaining or fun, 2
+lethal, deadly or capable of causing death, 3
+teeny, very small, 2
+visitor, someone who comes to a place for a short time, 2
+protect, to keep safe from harm, 2
+invite, to request someone’s presence, 2
+help, to assist or support, 1
+toy, an object for play or amusement, 1
+zany, amusingly unconventional or eccentric, 3
+wandering, moving about without a fixed destination, 3
+dramatic, relating to drama or causing a strong reaction, 3
+reflect, to throw back light or thoughts, 2
+size, the dimension or extent of something, 1
+income, money earned from work or investments, 2
+cherry, a small round fruit, 1
+handy, useful or convenient, 2
+ask, to request information or something, 1
+waiting, remaining in one place for something, 1
+middle, the central point or position, 1
+decay, the process of decomposing or rotting, 2
+elfin, relating to elves or being small and delicate, 5
+flashy, showy or extravagant in a way that draws attention, 3
+daffy, silly or foolish, 3
+wrap, to cover something with material, 1
+mass, a large quantity or collection, 2
+tasty, having a good flavour, 1
+impulse, a sudden urge or desire to act, 2
+gruesome, causing horror or disgust, 5
+disgusting, causing strong dislike or revulsion, 3
+aunt, a relative the sister of one's parent, 1
+lunch, a meal typically eaten in the middle of the day, 1
+squeak, a short high-pitched sound, 2
+defective, not functioning properly, 3
+nifty, clever or resourceful, 3
+employ, to hire or engage someone for work, 2
+finger, one of the five digits on the hand, 1
+program, a plan or schedule for something, 2
+gather, to collect or bring things together, 2
+plate, a flat dish used for serving food, 1
+makeshift, temporary or improvised, 3
+mitten, a type of glove that covers the hand and wrist, 1
+legs, the limbs used for walking and standing, 1
+automatic, working by itself without human intervention, 3
+stuff, things or material, 1
+afraid, feeling fear or anxiety, 1
+entertain, to provide amusement or enjoyment, 2
+suspend, to hang something from above, 2
+honourable, deserving respect or admiration, 3
+squash, to crush or flatten something, 2
+defeated, having lost in a contest or battle, 3
+measure, to determine the size or amount of something, 2
+uninterested, not concerned or engaged, 3
+pass, to go by or move past something, 1
+bells, instruments that produce a ringing sound, 1
+juggle, to throw and catch multiple objects in the air, 3
+stranger, someone you don't know, 2
+water, a clear liquid essential for life, 1
+thaw, to become less frozen, 2
+shut, to close something, 1
+tip, a helpful suggestion or the end of something, 1
+delicious, tasting very good, 2
+obnoxious, unpleasant or rude, 3
+flash, a brief burst of light, 1
+touch, to make physical contact with something, 1
+voyage, a long journey especially by sea, 3
+position, the place where something is located, 2
+float, to rest on the surface of a liquid, 2
+melodic, having a pleasant musical sound, 3
+minute, very small in size or importance, 2
+title, a name given to something or someone, 1
+behave, to act in a particular way, 1
+accurate, correct or precise, 2
+launch, to send something into motion or space, 2
+living, relating to life or existence, 1
+push, to exert force to move something, 1
+collar, a band around the neck of a shirt or animal, 2
+delicate, fragile or easily damaged, 3
+idea, a thought or suggestion, 1
+premium, a high-quality item or service, 3
+unwritten, not recorded or stated in writing, 3
+certain, sure or without doubt, 1
+delay, to postpone or make something happen later, 2
+pushy, being overly aggressive or forceful, 3
+steady, stable or constant, 2
+peaceful, calm and free from disturbance, 2
+toothbrush, a tool used for cleaning teeth, 2
+line, a continuous mark or boundary, 1
+receipt, a document confirming a transaction, 2
+frighten, to cause fear or anxiety, 2
+wary, cautious or watchful, 2
+chief, the leader or most important person, 2
+secret, something kept hidden or unknown, 2
+error, to make a mistake or cause a problem, 2
+elastic, able to stretch and return to its original shape, 2
+answer, a response to a question, 1
+mailbox, a container for receiving mail, 1
+brown, the colour of mud and tree trunks, 1
+low, at a small distance from the ground, 1
+talk, to speak or communicate, 1
+history, the study of past events, 2
+act, to do something or take action, 1
+flavour, the sensation produced by the sense of taste, 1
+yawn, to open the mouth wide due to tiredness, 1
+squirrel, a small rodent with a bushy tail, 2
+list, a series of items written down, 1
+difficult, hard to do or understand, 3
+selfish, concerned only with oneself, 3
+cheap, low in cost or quality, 1
+beds, pieces of furniture used for sleeping, 1
+satisfying, giving pleasure or fulfillment, 2
+snail, a slow-moving creature with a shell, 2
+pie, a dessert made with a crust and filling, 1
+immense, extremely large or vast, 3
+curl, to twist into a spiral shape, 2
+rescue, to save someone from harm, 2
+month, a unit of time which is typically 30 or 31 days, 1
+abashed, embarrassed or ashamed, 5
+street, a road in a town or city, 1
+houses, buildings where people live, 1
+encourage, to give support or confidence, 2
+orange, a color and a citrus fruit, 1
+soft, not hard or firm, 1
+acid, a substance with a sour taste and low pH, 3
